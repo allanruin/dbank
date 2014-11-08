@@ -6,7 +6,7 @@ get dbank download link
 test for http://dl.vmall.com/c0p2ca6lwq 
 
 output as:
-
+```
 ed04741093
 [u'CREWQwkcGlcJHBRVA1kOSlULDxtSXE8KXFhZVhhkCkEEFyNeQxhDAUsCTAFPVxcNWgBPAQQLEyJle
 3QcTV0VCQdYAQNDAVZSU14VSURcX1UQDF8FAgINUAUPDwMHEhMLBFMDAVECUQNDR18JUgZRUA4GABJfQ
@@ -22,3 +22,4 @@ http://dl.vmall.com/download/PowerAmp+v2.0.9-build-528+FULL.zip?f=c0p2ca6lwq&i=1
 thunder://QUFodHRwOi8vZGwudm1hbGwuY29tL2Rvd25sb2FkL1Bvd2VyQW1wK3YyLjAuOS1idWlsZC
 01MjgrRlVMTC56aXA/Zj1jMHAyY2E2bHdxJmk9MSZoPTE0MTU0NTg3MTAmdj1lNmEyYjFkMCZ1PTEwMz
 M0OGJiJmlwPTEyMy44OC44MS42NCZwPTY2JmxwaWQ9JnRjPTEmYXVpZD0mbHM9Wlo=
+```
